@@ -37,3 +37,9 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+
+  - id: ChatAI ALL
+    name: The ChatAI ALL WebSite
+    url: 'https://api.qiuciji.xyz/'
+    method: GET
+    expectStatus: 200
